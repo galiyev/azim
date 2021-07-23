@@ -30,9 +30,9 @@ namespace ConsoleAppAzim
 
         static void Calc()
         {
-            string AStr = Console.ReadLine();
+            string AStr2 = Console.ReadLine();
             string BStr = Console.ReadLine();
-            int a = Convert.ToInt32(AStr);
+            int a = Convert.ToInt32(AStr2);
             int b = Convert.ToInt32(BStr);
 
             int c = a + b;
